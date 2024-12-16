@@ -79,7 +79,7 @@ function App() {
               Professional Summary
             </h2>
             <div className="bg-gray-700 p-4 rounded-lg shadow-md transform transition-transform duration-300 hover:-translate-x-2 hover:bg-gray-600">
-              <p className="text-gray-400 leading-relaxed">
+              <p className="text-gray-300 leading-relaxed">
                 With 15 years of dynamic industry experience, including 7 years specializing in software development,
                 I have honed my skills in cutting-edge technologies and agile methodologies. 
                 My career is marked by a proven track record of delivering innovative, scalable, and high-performance solutions that drive business success.
@@ -102,8 +102,8 @@ function App() {
                     <p>January 2022 - Present</p>                  
                   </div>
                 </div>
-                <div className="list-inside mt-2 text-gray-400 text-left">
-                  <h4><span className="font-semibold text-gray-300">Software Engineer</span></h4>
+                <div className="list-inside mt-2 text-gray-300 text-left">
+                  <h4><span className="font-semibold text-gray-200">Software Engineer</span></h4>
                   <ul className="list-disc list-inside ml-4">
                     <li>Spearheaded the implementation of robust backend projects using C# and .NET, showcasing expertise in crafting scalable and high-performance solutions</li>
                     <li>Orchestrated seamless Azure deployments, leveraging cloud services to enhance project scalability, reliability, and overall efficiency</li>
@@ -120,8 +120,8 @@ function App() {
                     <p>March 2017 - January 2022</p>                  
                   </div>
                 </div>
-                <div className="list-inside mt-2 text-gray-400 text-left">
-                  <h4><span className="font-semibold text-gray-300">Developer Consultant | Software Engineer</span></h4>
+                <div className="list-inside mt-2 text-gray-300 text-left">
+                  <h4><span className="font-semibold text-gray-200">Developer Consultant | Software Engineer</span></h4>
                   <ul className="list-disc list-inside ml-4">
                     <li>Coded and implemented REST Api's for Cloud Web Applications using Razor pages</li>
                     <li>Architect and code ASP.NET Core Angular web application hosted in Docker containers in Microsoft Azure</li>
@@ -139,8 +139,8 @@ function App() {
                     <p>May 2015 - March 2017</p>                  
                   </div>
                 </div>
-                <div className="list-inside mt-2 text-gray-400 text-left">
-                  <h4><span className="font-semibold text-gray-300">QA Engineer</span></h4>
+                <div className="list-inside mt-2 text-gray-300 text-left">
+                  <h4><span className="font-semibold text-gray-200">QA Engineer</span></h4>
                   <ul className="list-disc list-inside ml-4">
                     <li>Created and maintained entire R&D Test Suites for department</li>
                     <li>Provided training and guidance for Microsoft Azure DevOps best practices</li>
@@ -157,8 +157,8 @@ function App() {
                     <p>July 2014 - May 2015</p>                  
                   </div>
                 </div>
-                <div className="list-inside mt-2 text-gray-400 text-left">
-                  <h4><span className="font-semibold text-gray-300">QA Engineer</span></h4>
+                <div className="list-inside mt-2 text-gray-300 text-left">
+                  <h4><span className="font-semibold text-gray-200">QA Engineer</span></h4>
                   <ul className="list-disc list-inside ml-4">
                     <li>Provide thorough testing of internal and external financial systems to ensure data integrity</li>
                     <li>Created adhoc queries through Oracle OBIEE for all management and cafes to use</li>
@@ -175,8 +175,8 @@ function App() {
                     <p>April 2010 - May 2015</p>                  
                   </div>
                 </div>
-                <div className="list-inside mt-2 text-gray-400 text-left">
-                  <h4><span className="font-semibold text-gray-300">Software Test Engineer</span></h4>
+                <div className="list-inside mt-2 text-gray-300 text-left">
+                  <h4><span className="font-semibold text-gray-200">Software Test Engineer</span></h4>
                   <ul className="list-disc list-inside ml-4">
                     <li>Coding all automated tests for every product development team to be used for daily builds</li>
                     <li>Top level support for all escalated issues submitted by customers</li>
