@@ -187,6 +187,20 @@ function App() {
               </div>
             </div>
           </div>
+
+          {/* Professional Summary */}
+          <div className="bg-gray-800 p-6 rounded-lg shadow-lg">
+            <h2 className="text-2xl text-blue-400 font-semibold mb-4 text-left">
+              Education & Accolades
+            </h2>
+            <div className="bg-gray-700 p-4 rounded-lg shadow-md transform transition-transform duration-300 hover:-translate-x-2 hover:bg-gray-600 text-left">
+              <h4><span className="font-semibold text-gray-200">St. Louis Community College</span></h4>
+               <p className="text-gray-300 leading-relaxed">Associates in Applied Science, Software Developement - Cum Laude Honors</p>
+              <h4><span className="font-semibold text-gray-200">Microsoft Certifications</span></h4>
+                <p className="text-gray-300 leading-relaxed">Azure Fundamentals</p>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
