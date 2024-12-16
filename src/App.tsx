@@ -11,7 +11,7 @@ function App() {
           {/* Header Section */}
           <div className="col-span-3 text-center mb-8">
             <img
-              src="src/assets/trp.jpg"
+              src="./src/assets/trp.jpg"
               alt="Profile"
               className="rounded-full mx-auto mb-4"
               width="80"
