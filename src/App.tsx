@@ -1,5 +1,6 @@
 import './App.css'
 import '@fortawesome/fontawesome-free/css/all.min.css';
+import trpImage from './assets/trp.jpg';
 
 function App() {
 
@@ -11,7 +12,7 @@ function App() {
           {/* Header Section */}
           <div className="col-span-3 text-center mb-8">
             <img
-              src="./src/assets/trp.jpg"
+              src={trpImage}
               alt="Profile"
               className="rounded-full mx-auto mb-4"
               width="80"
