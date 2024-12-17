@@ -156,7 +156,7 @@ function App() {
                 </div>
                 <div className={`list-inside mt-2 text-left ${isDarkMode ? 'text-gray-300' : 'text-gray-700'} `}>
                   <h4><span className={`font-semibold ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>Software Engineer</span></h4>
-                  <ul className="list-disc list-inside ml-4">
+                  <ul className="list-disc list-outside ml-6">
                     <li>Spearheaded the implementation of robust backend projects using C# and .NET, showcasing expertise in crafting scalable and high-performance solutions</li>
                     <li>Orchestrated seamless Azure deployments, leveraging cloud services to enhance project scalability, reliability, and overall efficiency</li>
                     <li>Executed database management tasks with proficiency in SQL, designing and optimizing database structures to align with project requirements and industry best practices</li>
@@ -174,7 +174,7 @@ function App() {
                 </div>
                 <div className={`list-inside mt-2 text-left ${isDarkMode ? 'text-gray-300' : 'text-gray-700'} `}>
                   <h4><span className={`font-semibold ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>Developer Consultant | Software Engineer</span></h4>
-                  <ul className="list-disc list-inside ml-4">
+                  <ul className="list-disc list-outside ml-6">
                     <li>Coded and implemented REST Api's for Cloud Web Applications using Razor pages</li>
                     <li>Architect and code ASP.NET Core Angular web application hosted in Docker containers in Microsoft Azure</li>
                     <li>Developed and maintained Enterprise ECM Records Management applications</li>
@@ -193,7 +193,7 @@ function App() {
                 </div>
                 <div className={`list-inside mt-2 text-left ${isDarkMode ? 'text-gray-300' : 'text-gray-700'} `}>
                   <h4><span className={`font-semibold ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>QA Engineer</span></h4>
-                  <ul className="list-disc list-inside ml-4">
+                  <ul className="list-disc list-outside ml-6">
                     <li>Created and maintained entire R&D Test Suites for department</li>
                     <li>Provided training and guidance for Microsoft Azure DevOps best practices</li>
                     <li>Executed and performed user acceptance testing, smoke testing, functional testing, etc for software development team</li>
@@ -211,7 +211,7 @@ function App() {
                 </div>
                 <div className={`list-inside mt-2 text-left ${isDarkMode ? 'text-gray-300' : 'text-gray-700'} `}>
                   <h4><span className={`font-semibold ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>QA Engineer</span></h4>
-                  <ul className="list-disc list-inside ml-4">
+                  <ul className="list-disc list-outside ml-6">
                     <li>Provide thorough testing of internal and external financial systems to ensure data integrity</li>
                     <li>Created adhoc queries through Oracle OBIEE for all management and cafes to use</li>
                     <li>Implemented Agile QA process to further improve overall quality of products and projects</li>
@@ -229,7 +229,7 @@ function App() {
                 </div>
                 <div className={`list-inside mt-2 text-left ${isDarkMode ? 'text-gray-300' : 'text-gray-700'} `}>
                   <h4><span className={`font-semibold ${isDarkMode ? 'text-gray-300' : 'text-gray-700'}`}>Software Test Engineer</span></h4>
-                  <ul className="list-disc list-inside ml-4">
+                  <ul className="list-disc list-outside ml-6">
                     <li>Coding all automated tests for every product development team to be used for daily builds</li>
                     <li>Top level support for all escalated issues submitted by customers</li>
                     <li> Maintaining and creating documentation for the standardizing of environments</li>
