@@ -224,7 +224,7 @@ function App() {
                 <div className="flex justify-between items-center">
                   <h3 className={`font-semibold text-blue-400 ${isDarkMode ? 'text-blue-400' : 'text-blue-700'} text-left`}>KnowledgeLake, LLC</h3>
                   <div className={`text-sm text-green-500 text-right font-semibold ${isDarkMode ? 'text-green-500' : 'text-green-700'}`}>
-                    <p>April 2010 - May 2015</p>                  
+                    <p>April 2010 - July 2014</p>                  
                   </div>
                 </div>
                 <div className={`list-inside mt-2 text-left ${isDarkMode ? 'text-gray-300' : 'text-gray-700'} `}>
